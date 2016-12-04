@@ -1,0 +1,4 @@
+C:\Users\lpthu\AppData\Local\Temporary Projects\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\lpthu\AppData\Local\Temporary Projects\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\lpthu\AppData\Local\Temporary Projects\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\lpthu\AppData\Local\Temporary Projects\UnitTestProject\obj\Debug\UnitTestProject.pdb
