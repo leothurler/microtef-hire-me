@@ -1,0 +1,37 @@
+﻿<Window x:Class="CrazyDragonClient.RegisterCardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrazyDragonClient"
+        mc:Ignorable="d"
+          Title="Registrar Cartão" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="lbName" Content="Nome Impresso" HorizontalAlignment="Left" Margin="31,45,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbNumber" Content="Numero" HorizontalAlignment="Left" Margin="31,76,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbExpDate" Content="Data Expiração" HorizontalAlignment="Left" Margin="31,107,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbBrand" Content="Bandeira" HorizontalAlignment="Left" Margin="31,138,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbPassword" Content="Senha" HorizontalAlignment="Left" Margin="31,169,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbType" Content="Tipo" HorizontalAlignment="Left" Margin="31,200,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbBalance" Content="Saldo" HorizontalAlignment="Left" Margin="31,231,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="148,45,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtNumber" HorizontalAlignment="Left" Height="23" Margin="148,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtExpDate" HorizontalAlignment="Left" Height="23" Margin="148,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cbBrand" HorizontalAlignment="Left" Margin="148,138,0,0" VerticalAlignment="Top" Width="120" Height="26">
+            <ComboBoxItem Content="Visa" HorizontalAlignment="Left" Width="111"/>
+            <ComboBoxItem Content="Master" HorizontalAlignment="Left" Width="111"/>
+        </ComboBox>
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="148,169,0,0" VerticalAlignment="Top" Width="120" Height="26"/>
+        <ComboBox x:Name="cbType" HorizontalAlignment="Left" Margin="148,200,0,0" VerticalAlignment="Top" Width="120" Height="26">
+            <ComboBoxItem Content="Chip" HorizontalAlignment="Left" Width="111"/>
+            <ComboBoxItem Content="Tarja Magnética" HorizontalAlignment="Left" Width="111"/>
+        </ComboBox>
+        <TextBox x:Name="txtBalance" HorizontalAlignment="Left" Height="23" Margin="148,231,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnRegister" Content="Cadastrar" HorizontalAlignment="Left" Margin="119,284,0,0" VerticalAlignment="Top" Width="75" Click="btnRegister_Click"/>
+        <Button x:Name="btnBack" Content="Voltar" HorizontalAlignment="Left" Margin="280,284,0,0" VerticalAlignment="Top" Width="75" Click="btnBack_Click"/>
+
+
+
+
+    </Grid>
+</Window>

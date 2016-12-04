@@ -1,0 +1,17 @@
+﻿<Window x:Class="CrazyDragonClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrazyDragonClient"
+        mc:Ignorable="d"
+        Title="Login" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="lbLogin" Content="Login" HorizontalAlignment="Left" Margin="157,98,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbPassword" Content="Senha" HorizontalAlignment="Left" Margin="157,138,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtLogin" HorizontalAlignment="Left" Height="23" Margin="210,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="210,138,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnLogin" Content="Logar" HorizontalAlignment="Left" Margin="210,178,0,0" VerticalAlignment="Top" Width="120" Click="login_Click"/>
+        <Button x:Name="btnNewUser" Content="Novo Usuário" HorizontalAlignment="Left" Margin="210,213,0,0" VerticalAlignment="Top" Width="120" Click="newUser_Click"/>
+    </Grid>
+</Window>

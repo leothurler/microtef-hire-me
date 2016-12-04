@@ -1,0 +1,28 @@
+﻿<Window x:Class="CrazyDragonClient.ConsultCardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrazyDragonClient"
+        mc:Ignorable="d"
+        Title="Cartões Cadastrados" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label" Content="Cartões cadastrados" HorizontalAlignment="Left" Margin="128,38,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <ListView x:Name="lvCardData" HorizontalAlignment="Left" Height="179" Margin="10,90,0,0" VerticalAlignment="Top" Width="497">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Nome" Width="75" DisplayMemberBinding="{Binding cardName}"/>
+                    <GridViewColumn Header="Numero" Width="75"  DisplayMemberBinding="{Binding cardNumber}"/>
+                    <GridViewColumn Header="Data Exp" Width="105" DisplayMemberBinding="{Binding cardExpDate}"/>
+                    <GridViewColumn Header="Saldo" Width="75" DisplayMemberBinding="{Binding cardBalance}"/>
+                    <GridViewColumn Header="Bandeira" Width="75" DisplayMemberBinding="{Binding cardBrand}"/>
+                    <GridViewColumn Header="Tipo" Width="75" DisplayMemberBinding="{Binding cardType}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="btnBack" Content="Voltar" HorizontalAlignment="Left" Margin="383,289,0,0" VerticalAlignment="Top" Width="75" Click="btnBack_Click"/>
+       
+
+
+    </Grid>
+</Window>

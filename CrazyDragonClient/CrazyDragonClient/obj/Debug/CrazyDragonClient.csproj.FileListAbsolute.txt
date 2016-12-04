@@ -1,0 +1,48 @@
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\bin\Debug\CrazyDragonClient.exe.config
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\CrazyDragonClient.csprojResolveAssemblyReference.cache
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\MainWindow.g.cs
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\App.g.cs
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\CrazyDragonClient_MarkupCompile.cache
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\CrazyDragonClient_MarkupCompile.lref
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\bin\Debug\CrazyDragonClient.exe
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\bin\Debug\CrazyDragonClient.pdb
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\MainWindow.baml
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\CrazyDragonClient.g.resources
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\CrazyDragonClient.Properties.Resources.resources
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\CrazyDragonClient.csproj.GenerateResource.Cache
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\CrazyDragonClient.exe
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\CrazyDragonClient.pdb
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\RegisterWindow.g.cs
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\RegisterWindow.baml
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\ConsultTransactionWindow.g.cs
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\UserHomeWindow.g.cs
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\ConsultTransactionWindow.baml
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\UserHomeWindow.baml
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\NewTransactionWindow.g.cs
+C:\Users\lpthu\AppData\Local\Temporary Projects\CrazyDragonClient\obj\Debug\NewTransactionWindow.baml
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\bin\Debug\CrazyDragonClient.exe.config
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\CrazyDragonClient.exe
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\CrazyDragonClient.pdb
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\bin\Debug\CrazyDragonClient.exe
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\bin\Debug\CrazyDragonClient.pdb
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\CrazyDragonClient.csprojResolveAssemblyReference.cache
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\ConsultTransactionWindow.g.cs
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\MainWindow.g.cs
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\NewTransactionWindow.g.cs
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\RegisterWindow.g.cs
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\UserHomeWindow.g.cs
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\App.g.cs
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\CrazyDragonClient_MarkupCompile.cache
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\CrazyDragonClient_MarkupCompile.lref
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\ConsultTransactionWindow.baml
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\MainWindow.baml
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\NewTransactionWindow.baml
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\RegisterWindow.baml
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\UserHomeWindow.baml
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\CrazyDragonClient.g.resources
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\CrazyDragonClient.Properties.Resources.resources
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\CrazyDragonClient.csproj.GenerateResource.Cache
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\RegisterCardWindow.g.cs
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\RegisterCardWindow.baml
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\ConsultCardWindow.g.cs
+C:\Users\lpthu\Documents\Visual Studio 2015\Projects\CrazyDragonClient\CrazyDragonClient\obj\Debug\ConsultCardWindow.baml

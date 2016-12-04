@@ -1,0 +1,17 @@
+﻿<Window x:Class="CrazyDragonClient.UserHomeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrazyDragonClient"
+        mc:Ignorable="d"
+        Title="Home" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="lbWelcome" Content="Bem Vindo" HorizontalAlignment="Center" Margin="147,65,137,0" VerticalAlignment="Top" Width="233" FontSize="36" />
+        <Button x:Name="btnNewTransaction" Content="Nova Transação" HorizontalAlignment="Left" Margin="95,188,0,0" VerticalAlignment="Top" Width="117" Click="btnNewTransaction_Click"/>
+        <Button x:Name="btnConsultTransaction" Content="Consultar Transações" HorizontalAlignment="Left" Margin="263,188,0,0" VerticalAlignment="Top" Width="117" Click="btnConsultTransaction_Click"/>
+        <Button x:Name="btnRegisterCards" Content="Novo Cartão" HorizontalAlignment="Left" Margin="95,237,0,0" VerticalAlignment="Top" Width="117" Click="btnRegisterCards_Click"/>
+        <Button x:Name="btnConsultCards" Content="Consultar Cartões" HorizontalAlignment="Left" Margin="263,237,0,0" VerticalAlignment="Top" Width="117" Click="btnConsultCards_Click"/>
+        <Button x:Name="btnLogout" Content="Sair" HorizontalAlignment="Left" Margin="186,276,0,0" VerticalAlignment="Top" Width="117" Click="btnLogout_Click"/>
+    </Grid>
+</Window>
